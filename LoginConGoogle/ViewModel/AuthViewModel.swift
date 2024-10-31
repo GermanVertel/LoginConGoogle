@@ -9,4 +9,4 @@ import FirebaseCore
 import FirebaseAuth
 import GoogleSignIn
 
-
+class AuthView
